@@ -2,7 +2,7 @@
 
 ##Link to the binder with all files
 
-You might skip the first step for binder, 
+You might skip the first step for binder - make_dly_obs_table_standalone.ipynb, 
 
 and use an input file for next step
 
